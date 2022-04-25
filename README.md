@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Daily News App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## About The App
+
+This app is basically showing news according to your category you can Drink your coffee with Daily News and start your day :)
+
+### Maintain
+
+This app is totally develop and maintained by Alok Bhowmik
+
+                Thanks for visiting ...
 
 ## Available Scripts
 
